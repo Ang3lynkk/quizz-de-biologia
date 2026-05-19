@@ -155,7 +155,7 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
     },
     {
       'pergunta':
-          '(Unifor) Na espécie humana, os alelos que determinam sangue do tipo A (IA) e do tipo B (IB) são codominantes. Esses dois alelos, porém, são dominantes sobre o alelo responsável por sangue do tipo O (i). Assim, se uma mulher com tipo sanguíneo A tem um filho com tipo sanguíneo B, o sangue do pai da criança pode ser do tipo:',
+          'No sistema ABO, os alelos IA e IB são codominantes e dominam o alelo i. Uma mulher do tipo A tem um filho do tipo B. Nesse caso, pergunta-se qual pode ser o tipo sanguíneo do pai da criança.',
       'opcoes': ['B ou O', 'A, B, AB ou O', 'AB ou B', 'A ou B', 'A, B ou AB'],
       'respostaCorreta': 'AB ou B',
       'explicacao':
