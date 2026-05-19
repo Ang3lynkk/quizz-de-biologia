@@ -155,7 +155,7 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
     },
     {
       'pergunta':
-          'No sistema ABO, os alelos IA e IB são codominantes e dominam o alelo i. Uma mulher do tipo A tem um filho do tipo B. Nesse caso, pergunta-se qual pode ser o tipo sanguíneo do pai da criança.',
+          'No sistema ABO, os alelos IA e IB são codominantes e dominam o alelo i. Uma mulher do tipo A tem um filho do tipo B. Nesse caso, qual pode ser o tipo sanguíneo do pai da criança.',
       'opcoes': ['B ou O', 'A, B, AB ou O', 'AB ou B', 'A ou B', 'A, B ou AB'],
       'respostaCorreta': 'AB ou B',
       'explicacao':
